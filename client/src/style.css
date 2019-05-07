@@ -1,0 +1,11 @@
+.centerIt {
+    /* margin: auto;
+    width: 80%; */
+    text-align: center;
+}
+
+.chartjsBar {
+    width: 50%;
+    height: 300px;
+    margin: auto;
+}
